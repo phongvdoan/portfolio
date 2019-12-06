@@ -101,13 +101,13 @@ Then the content should be unique and reflect the skills and personality of the 
 
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: _______________Modify the contents_________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __60mins___
 
-Start time: _____
+Start time: ___9:06am__
 
-Finish time: _____
+Finish time: ___9:44am__
 
-Actual time needed to complete: _____
+Actual time needed to complete: ___38mins__
 ```
