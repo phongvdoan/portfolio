@@ -53,6 +53,18 @@ Then the portfolio contents should be displayed
 - Refactor the `main.css` file using SMACSS principles.
   - You may decide how many files to include, but at the minimum should include  `base.css`, `layout.css`, and `modules.css`. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a `modules` folder, if you feel that the code needs to be organized in that manner.
 
+  ```
+Number and name of feature: _______________Refractor The CSS_________________
+
+Estimate of time needed to complete: ___30mins__
+
+Start time: ___8:00am__
+
+Finish time: ___9:01am__
+
+Actual time needed to complete: __61mins___
+```
+
 ### Feature #2: Modify the contents
 
 #### Why are we implementing this feature?
@@ -86,3 +98,16 @@ Then the content should be unique and reflect the skills and personality of the 
     - A question within the context of today's lab assignment
     - An observation about the lab assignment, or related 'Ah-hah!' moment
     - How long you spent working on this assignment
+
+
+```
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+```
